@@ -3,6 +3,9 @@
 📚 CS Student of IUT Robert Schuman<br>
 👨🏻‍💻 Passionnate about creating Web Apps and Websites
 
+# 🌐 My Portfolio:
+🔗 [lilianbischung.fr](https://lilianbischung.fr/)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lilianbischung) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@lilianbischung.fr) 
 
